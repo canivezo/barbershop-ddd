@@ -1,9 +1,9 @@
 package com.daniel.BarberShopDDD.shared.mappers;
 
 import com.daniel.BarberShopDDD.adapters.inbound.rest.controllers.dtos.user.CreateUserRequest;
-import com.daniel.BarberShopDDD.adapters.inbound.rest.controllers.dtos.user.UserResponse;
 import com.daniel.BarberShopDDD.adapters.inbound.rest.controllers.dtos.user.UserAddressRequest;
 import com.daniel.BarberShopDDD.adapters.inbound.rest.controllers.dtos.user.UserAddressResponse;
+import com.daniel.BarberShopDDD.adapters.inbound.rest.controllers.dtos.user.UserResponse;
 import com.daniel.BarberShopDDD.domain.entities.AddressEntity;
 import com.daniel.BarberShopDDD.domain.entities.UserEntity;
 import org.springframework.stereotype.Component;
